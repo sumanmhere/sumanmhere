@@ -10,7 +10,7 @@
 
 ### :open_file_folder: Projects:
 - [Storydeck](https://github.com/Team-Storydeck/storydeck) - An Open-Source and Cross-platform App to listen, collect and download Audio Stories :headphones: [Work in Progress]
-- [Beginner Projects Using HTML, CSS, Vanilla JS](https://github.com/sumand4l/html-css-js-beginner-projects)
+- [Beginner Projects Using HTML, CSS, Vanilla JS](https://github.com/sumuhere/html-css-js-beginner-projects)
 <!-- <p align=center><a href="https://github.com/Team-Storydeck/storydeck">
 <img alt="Storydeck" src="./assets/storydeck_480px.png" hight=90px width=90px >
 </p> -->
