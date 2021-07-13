@@ -1,12 +1,10 @@
 ## Hello, I'm Suman <img src="./assets/waving_hand.gif" width="30px"></h2>
 
 - :telescope: Currently I'm studying Diploma in Computer Science and Technology from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic).
-- 🌱 I’m currently learning **Front-End Development** | **Linux System**:penguin: 
+- 🌱 I’m currently learning **Front-end Development** | **Linux System**:penguin: 
 - 🤔 I’m looking for help with beginner friendly **Open Source Projects**.
 - 💬 Ask me about Anime, Movies, Web-Series, Current Technologies.
 - 😄 Pronouns: He/Him
-- :star2: In my free-time I read books, listen songs...
-- :heart: Need more faith in Open Source Softwares
 
 ### :open_file_folder: Projects:
 - [Storydeck](https://github.com/Team-Storydeck/storydeck) - An Open-Source and Cross-platform App to listen, collect and download Audio Stories :headphones: [Work in Progress]
