@@ -1,9 +1,8 @@
 ## Hello, I'm Suman <img src="./assets/waving_hand.gif" width="30px"></h2>
 
 - :telescope: Currently I'm studying Diploma in Computer Science and Technology from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic).
-- 🌱 Currently focusing on **Front-end Development** :penguin: 
+- 🌱 Focusing on **Front-end Development** and :penguin: 
 - 🤔 I’m looking for help with beginner friendly **Open Source Projects**.
-- 💬 Ask me about Anime, Movies, Web-Series, Current Technologies.
 - 😄 Pronouns: He/Him
 
 ### :open_file_folder: Projects:
