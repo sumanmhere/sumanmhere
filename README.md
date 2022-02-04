@@ -1,13 +1,15 @@
 ## Hello, I'm Suman <img src="./assets/waving_hand.gif" width="30px"></h2>
 
-- :man_student: Currently I'm studying Diploma in Computer Science and Technology @ [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic) and :telescope: Learning and Working On **Front-end Development** and Linux 🐧 System.  
+- :man_student: Diploma in Computer Science and Technology @ [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic)
+- :telescope: Learning and Working On **Front-end Development** and Linux 🐧 System
+- 🌟 I like contributing to open source 
 
-### :open_file_folder: Projects:
+<!-- ### :open_file_folder: Projects:
 - #### [Storydeck](https://github.com/Team-Storydeck/storydeck) 
      An Open-Source and Cross-platform App to listen, collect and download Audio Stories :headphones: [WIP]
 - #### [Web Development Projects](https://github.com/thatsuman/web-dev-projects)
     - [CCP College Site](https://ccp.suman.social/) | [Repo](https://github.com/thatsuman/ccpkolkata)
-    - [WB Tourism Site](https://tourism.suman.social/) | [Repo](https://github.com/thatsuman/wbtourism)
+    - [WB Tourism Site](https://tourism.suman.social/) | [Repo](https://github.com/thatsuman/wbtourism) -->
     
 ### :computer: Technologies I'm in:
 
