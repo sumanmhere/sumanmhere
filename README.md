@@ -22,6 +22,8 @@
 [![Codepen Badge](https://img.shields.io/badge/-sumanmondal-132c33?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/sumanmondal)](https://codepen.io/sumanmondal) [![AniList Badge](https://img.shields.io/badge/-sumanmondal-A2DBFA?style=flat-square&logo=anilist&logoColor=0061A8&link=https://anilist.co/user/sumanmondal/)](https://anilist.co/user/sumanmondal/)
 
 ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsuman&count_private=true&show_icons=true&theme=tokyonight)
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatsuman&label=Profile%20views&color=0e75b6&style=flat" alt="Suman Mondal" /> </p> -->
  
  _GitHub Readme Stats Provided by: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)_
 
