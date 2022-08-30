@@ -1,6 +1,6 @@
 ## Hello, I'm Suman </h2>
 
-- :man_student: Diploma in Computer Science and Technology @ [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic)
+- :man_student: CSE undergrad at [Kazi Nazrul University](https://www.knu.ac.in/)
 - :telescope: Learning and Working On **Front-end Development** and Linux 🐧 System
 - 🌟 I like contributing to open source 
 
