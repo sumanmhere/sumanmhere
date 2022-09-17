@@ -1,8 +1,12 @@
-## Hello, I'm Suman </h2>
+## Hello, I'm Suman Mondal </h2>
 
-- :man_student: CSE undergrad at [Kazi Nazrul University](https://www.knu.ac.in/)
-- :telescope: Learning and Working On **Front-end Development** and Linux 🐧 System
-- 🌟 I like contributing to open source 
+I'm a 2025 batch Undergraduate student majored in *Computer Science and Engineering* from *Kazi Nazrul University*, who is interested in **Full-stack Web Development, Open Source programs, Linux and Bengali Novels**. Preferred pronouns: He/Him :boy:
+
+Currently, I'm pursuing my 2nd year with have in-hand experience in working with JavaScript, React in Project and Git workflow for Project management.
+🌟  I am an active open source contributor participated in various programs like Hacktoberfest 2021, JWoC 2022 etc.
+    
+- 🔭 I’m currently more learning and working on **Front-end Development** and Linux 🐧 System.
+- :heart: Ready to help you with get started doing Open Source and Contribution.
 
 <!-- ### :open_file_folder: Projects:
 - #### [Storydeck](https://github.com/Team-Storydeck/storydeck) 
